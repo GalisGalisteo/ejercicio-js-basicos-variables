@@ -17,6 +17,7 @@ let jugandoAhora = "pelota";
 
 let historiaGato = `Mi gato se llama ${nombreGato}, tiene ${edadGato} años y pesa ${pesoGato} kilos. Es de color ${colorGato} y tiene una personalidad ${personalidadGato}. 
 Le encanta comer ${comidaFavorita} y tiene ${numJuguetes} juguetes diferentes. Necesita dormir al menos ${numHorasSueño} horas al día. 
-Ahora mismo está jugando con su ${jugandoAhora}. ¡Es un gato muy feliz!`;
+Ahora mismo está jugando con su ${jugandoAhora}.
+¡Es un gato muy feliz!`;
 
 console.log(historiaGato);
